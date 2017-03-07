@@ -1,5 +1,5 @@
 package com.example.dom.myapplication;
-
+//comit twst
 import android.app.SearchManager;
 import android.content.Context;
 import android.support.v7.app.AppCompatActivity;
